@@ -1,0 +1,85 @@
+.ratings-row {
+  display:none !important;
+}
+.container {
+  max-width: none !important;
+  background-color: chartreuse;
+}
+h1 {
+ color:orange;
+}
+
+h2 {
+ color:#228B22;
+}
+
+h3 {
+   color: #228B22;
+  }
+
+h4{
+   color:  #228B22 ;
+}
+
+
+.ratings-container{
+	background-color:chocolate;
+	 border:solid
+}
+
+.rating-entry{
+  color: coral;
+}
+
+.avatar-container .Player-username {
+    color: chocolate;
+}
+
+.active-games{
+	background-color:hotpink;
+	 border:solid
+}
+
+.move-number{
+  color: magenta;
+}
+
+.game-name{
+  color: magenta;
+}
+
+.Clock {
+  color: magenta;
+}
+
+.size {
+  color: magenta;
+}
+
+.Player-username {
+  color: magenta;
+}
+
+.Player-rank {
+  color: magenta;
+}
+
+.game_name {
+  color: magenta;
+}
+
+.board_size {
+  color: magenta;
+}
+
+.date {
+  color: magenta;
+}
+
+.user_info {
+  color: magenta;
+}
+
+.sortable {
+  color: magenta;
+}
