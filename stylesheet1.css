@@ -94,3 +94,26 @@ background-size: contain;
   color: white;
   text-shadow: orange 1px 0 10px;
 }
+.library-won-result-unranked {
+  
+}
+.library-won-result-vs-weaker {
+  background-color: #154b77 !important;;
+}
+.library-won-result-vs-stronger {
+  background-color: #124360 !important;
+  color: #bbb !important;;
+}
+.library-lost-result-vs-stronger {
+  background-color: #794833 !important;
+  color: #bbb !important;
+}
+.library-lost-result-vs-weaker {
+  background-color: #925325 !important;
+}
+.library-won-result-unranked {
+  color: blanchedalmond !important;
+}
+.library-lost-result-unranked {
+  color: orange !important;
+}
