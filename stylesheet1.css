@@ -8,7 +8,6 @@
 );
 background-size: 250%;
 animation: gradient-animation 35s infinite alternate;
-// transform: rotate(0.5deg);
 }
 
 @keyframes gradient-animation {
@@ -63,9 +62,6 @@ width: 70%;
 min-width: fit-content;
 margin: auto;
 border-radius: 50px;
-}
-.active-games:hover {
-// opacity: 0;
 }
 .active-games h2 {
 text-align: center;
