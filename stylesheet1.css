@@ -8,7 +8,7 @@
 );
 background-size: 250%;
 animation: gradient-animation 35s infinite alternate;
-transform: rotate(0.5deg);
+// transform: rotate(0.5deg);
 }
 
 @keyframes gradient-animation {
@@ -60,11 +60,12 @@ display: none;
 background-image: url(https://i.ibb.co/ZTdxN6f/stars-space-galaxy-4k-1536013796.jpg);
 background-size: contain;
 width: 70%;
+min-width: fit-content;
 margin: auto;
 border-radius: 50px;
 }
 .active-games:hover {
-opacity: 0;
+// opacity: 0;
 }
 .active-games h2 {
 text-align: center;
