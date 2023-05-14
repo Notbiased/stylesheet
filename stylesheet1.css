@@ -87,7 +87,7 @@ text-shadow: orange 1px 0 10px;
 
 .Card {
 background-image: url(https://i.ibb.co/ZTdxN6f/stars-space-galaxy-4k-1536013796.jpg);
-background-size: contain;
+background-size: 60%S;
   color: white;
   text-shadow: orange 1px 0 10px;
 }
